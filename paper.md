@@ -1,21 +1,13 @@
 ---
 title: "Cox Elastic Net Hazard Risk Scores"
-author:
-  - "Anastasia Leshchyk$^{1}$"
-  - "Paola Sebastiani$^{2,3}$"
-date: "March 5, 2025"
+author: |
+  Anastasia Leshchyk<sup>1</sup>  
+  Paola Sebastiani<sup>2,3</sup>
+date: March 5, 2025
 output:
-  pdf_document:
-    toc: false
-    fig_caption: true
-  html_document:
-    toc: false
-    number_sections: false
-    fig_caption: true
   github_document:
     toc: false
     fig_caption: true
-#header-includes:
 bibliography: paper.bib
 ---
 
