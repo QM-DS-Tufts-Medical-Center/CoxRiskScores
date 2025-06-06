@@ -14,6 +14,7 @@ output: github_document
 
 
 ### Authors and Affiliations
+Anastasia Leshchyk<sup>1</sup>, Paola Sebastiani<sup>2,3</sup>
 
 <sup>1</sup> **Bioinformatics Program, Boston University, Boston, MA,
 United States**  
