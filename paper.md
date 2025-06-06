@@ -7,7 +7,7 @@ date: "March 5, 2025"
 output:
   md_document:
     variant: markdown_github
-    preserve_yaml: true
+    preserve_yaml: false
   pdf_document:
     toc: false
     fig_caption: true
