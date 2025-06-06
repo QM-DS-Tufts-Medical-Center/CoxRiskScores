@@ -212,7 +212,7 @@ p<- visualize_HRS_df(HRS_df, plot_type = "density")
 plot(p)
 ```
 
-<img src="paper_test_files/figure-markdown_github/compute-rs-1.png" style="display: block; margin: auto;" />
+<img src="paper_files/figure-markdown_github/compute-rs-1.png" style="display: block; margin: auto;" />
 
 ### **Perform Kaplan-Meier Survival Analysis**
 
@@ -233,11 +233,11 @@ plot_all_km_results(km_plots)
 
     ## Displaying Kaplan-Meier plot for HRS_Stroke
 
-![](paper_test_files/figure-markdown_github/km-analysis-plot-1.png)
+![](paper_files/figure-markdown_github/km-analysis-plot-1.png)
 
     ## Displaying Kaplan-Meier plot for HRS_Cancer
 
-![](paper_test_files/figure-markdown_github/km-analysis-plot-2.png)
+![](paper_files/figure-markdown_github/km-analysis-plot-2.png)
 
 # References
 
