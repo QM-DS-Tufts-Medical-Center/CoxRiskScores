@@ -1,9 +1,9 @@
 ---
 title: "Cox Elastic Net Hazard Risk Scores"
-author: |
-  Anastasia Leshchyk<sup>1</sup>  
-  Paola Sebastiani<sup>2,3</sup>
-date: March 5, 2025
+author:
+  - "Anastasia Leshchyk (1)"
+  - "Paola Sebastiani (2,3)"
+date: "March 5, 2025"
 output:
   github_document:
     toc: false
